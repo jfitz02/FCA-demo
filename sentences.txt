@@ -1,0 +1,25 @@
+Astronomy is my favourite acticity, I enjoy looking at stars, planets and the Solar System.
+My telescope is able to see the flag on the moon, as well as other planets in the Solar System.
+I can not believe, England drew to America in the Football World Cup.
+Football is an 11 vs 11 game played with a round ball.
+University students hate early mornings.
+I am in my 3rd year of study at the University of Warwick.
+Computer Science is a bad degree.
+It's quite bad that I can't think of another sentence.
+My Computer has 87% charge.
+My favourite fast food is McDonalds.
+The big brain move is to buy 5 99p hamburgers instead of a normal burger from McDonalds.
+Rugby is strictly better than Football.
+Why is League of Legends a terrible game?
+Counter Strike Global Offensive is my most played game.
+I prefer ARAM to normal league.
+I used to play Rugby in a league of 8 teams.
+The weather is rather pleasent today.
+It rained all of yesterday. Why does British weather suck.
+A Monad is a Monoid in the category of Endofunctors.
+Functional Programming is really cool, but I don't really understand what a Monad is.
+My favourite Programming language is Python.
+It was really interesting writing a compiler for my own programming language.
+Python is an interpreted language.
+Cpp is a Compiled language, meaning we use a compiler to turn the code into Low-Level code.
+At University my favourite module has been either compiler design or Functional Programming.
